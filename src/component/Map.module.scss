@@ -1,0 +1,22 @@
+.GoogleMap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    pointerevents: none;
+}
+.img {
+    width: 100%;
+    height: 100%;
+    objectfit: cover;
+}
+.slider {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+    zindex: 1000;
+}
